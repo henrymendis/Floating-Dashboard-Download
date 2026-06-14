@@ -1,9 +1,9 @@
 
-# The ultimate desktop productivity overlay.
+# The ultimate desktop Productivity Dashboard
 <div align="center">
   
 # 🚀 Floating Dashboard 
-**The Ultimate AI-Powered Desktop Productivity Overlay**
+**The Ultimate AI-Powered Desktop Productivity Dashboard**
 
 [![Download Latest Release](https://img.shields.io/badge/Download-v1.0.0-success?style=for-the-badge&logo=windows)](https://github.com/henrymendis/Floating-Dashboard-App/releases)
 [![License: Trial](https://img.shields.io/badge/License-30_Day_Trial-orange?style=for-the-badge)](https://github.com/henrymendis/Floating-Dashboard-App/releases)
